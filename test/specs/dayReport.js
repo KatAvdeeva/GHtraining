@@ -30,6 +30,8 @@ describe('CREATE DAY REPORT', () => {
         element.click();
         expect(element.isSelected()).true
     });
+
+    //Nataliia commit
 });
 
 
