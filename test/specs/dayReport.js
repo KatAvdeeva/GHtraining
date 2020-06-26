@@ -30,6 +30,12 @@ describe('CREATE DAY REPORT', () => {
         element.click();
         expect(element.isSelected()).true
     });
+    //work with GitHub
+    it('should uncheck I UNDERSTOOD EVERYTHING checkbox', function () {
+        const element = $("//input[@id='input-1']");
+        element.click();
+        expect(element.isSelected()).false
+    });
 });
 
 
