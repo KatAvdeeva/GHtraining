@@ -30,6 +30,12 @@ describe('CREATE DAY REPORT', () => {
         element.click();
         expect(element.isSelected()).true
     });
+// babarin iurii
+    // it('should mark I UNDERSTOOD EVERYTHING checkbox', function () {
+    //     const element = $("//input[@id='input-1']");
+    //     element.click();
+    //     expect(element.isSelected()).true
+    // });
 });
 
 
