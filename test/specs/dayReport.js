@@ -29,8 +29,10 @@ describe('CREATE DAY REPORT', () => {
         const element = $("//input[@id='input-1']");
         element.click();
         expect(element.isSelected()).true
-    });
-});
 
+    });
+
+});
+// немного изменил
 
 
