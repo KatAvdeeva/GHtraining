@@ -31,26 +31,9 @@ describe('CREATE DAY REPORT', () => {
         expect(element.isSelected()).true
     });
 
-
-    // working in Git_ Liza (true:-)
-
-
-});
-//work
-
 });
 
 
-
-});
-//Mariia's changes
+//Chuprys D
 
 
-
-
-/////Sveta+1++
-
-
-//commit
-
-/////Irina
