@@ -28,29 +28,6 @@ describe('CREATE DAY REPORT', () => {
     it('should mark I UNDERSTOOD EVERYTHING checkbox', function () {
         const element = $("//input[@id='input-1']");
         element.click();
-        expect(element.isSelected()).true
+        expect(element.isSelected()).true;
     });
-
-
-    // working in Git_ Liza (true:-)
-
-
 });
-//work
-
-});
-
-
-
-});
-//Mariia's changes
-
-
-
-
-/////Sveta+1++
-
-
-//commit
-
-/////Irina
