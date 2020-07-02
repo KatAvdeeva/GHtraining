@@ -28,12 +28,5 @@ describe('CREATE DAY REPORT', () => {
     it('should mark I UNDERSTOOD EVERYTHING checkbox', function () {
         const element = $("//input[@id='input-1']");
         element.click();
-        expect(element.isSelected()).true
+        expect(element.isSelected()).true;
     });
-
-});
-
-
-//Chuprys D
-
-
